@@ -1,5 +1,5 @@
 # Site settings
-title: TESTING123dgasdg
+title: Taylor's Site
 email:
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
